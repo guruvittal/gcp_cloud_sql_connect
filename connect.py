@@ -1,6 +1,6 @@
 INSTANCE_CONNECTION_NAME='psc-cloud-sql-test-458401:us-central1:cloudsql-postgres3'
 DB_USER='postgres'
-DB_PASS='changeme'
+DB_PASS='xxxxxxxx'
 DB_NAME='postgres'
 
 
